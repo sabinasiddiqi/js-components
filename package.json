@@ -10,13 +10,12 @@
 	"author": "Sabina Siddiqi",
 	"license": "ISC",
 	"devDependencies": {
-		"babel-plugin-transform-object-rest-spread": "^6.26.0",
 		"style-loader": "^1.2.1",
+		"webpack-cli": "^3.3.11",
 		"webpack-dev-server": "^3.11.0"
 	},
 	"dependencies": {
 		"@babel/core": "^7.10.2",
-		"babel-loader": "^7.1.2",
 		"@babel/preset-env": "^7.10.2",
 		"@babel/runtime": "^7.10.2",
 		"css-loader": "^3.5.3",
